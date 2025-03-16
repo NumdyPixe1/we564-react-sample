@@ -59,7 +59,7 @@ export default class report extends Component {
     const { district } = this.state;
     return (
       <div>
-        <Navbar bg="primary" variant="dark">
+        <Navbar bg="warning" variant="dark">
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
             <div>{/* Name */}</div>
